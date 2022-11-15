@@ -1,2 +1,2 @@
-# grado
+# grados
 Created with CodeSandbox
